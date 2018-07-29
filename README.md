@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # manage-system #
 基于Vue.js 2.x系列 + Element UI 的后台管理系统解决方案。[线上地址](http://blog.gdfengshuo.com/example/work/)
 
@@ -200,3 +201,7 @@ import 'element-ui/lib/theme-default/index.css';    // 默认主题
 ### 浅绿色皮肤 ###
 
 ![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms2.png)
+=======
+# mutifunctional-robot
+多功能机器人
+>>>>>>> 0fc00a182c0d7e809b03feba80210454b27c0ca1
